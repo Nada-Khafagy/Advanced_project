@@ -1,4 +1,4 @@
 # Advanced_project
 
-##details
+## Details
 we will implement a Quadcopter :3 
