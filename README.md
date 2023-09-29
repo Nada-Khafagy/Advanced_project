@@ -11,7 +11,7 @@ This is the official team page for the Quadcopter project. Meet our dedicated te
 | Name              | ID       | Email                  |
 |-------------------|----------|------------------------|
 | Ahmed Abdulhameed | 52-24471 | Ahmed.elessawy        |
-| Dina Mohammed     | 49-18602 | dina.mohamed          |
+| Dina Mohamed     | 49-18602 | dina.mohamed          |
 | Kareem Hindi      | 49-3964  | Kareem.hindi          |
 | Marwa Lotfy       | 49-18054 | marwa.hassan          |
 | Nada Tamer        | 49-13614 | nada.abdelhay         |
