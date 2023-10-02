@@ -3,9 +3,10 @@
 ## Project Description
 
 we will implement a Quadcopter :3 
+This is still a proposal so hopefully it will be accepted
 
-## Quadcopter Project Team
 
+## Quadcopter Project Team - SQuadCopter 
 This is the official team page for the Quadcopter project. Meet our dedicated team members:
 
 | Name              | ID       | Email                  |
@@ -16,11 +17,19 @@ This is the official team page for the Quadcopter project. Meet our dedicated te
 | Marwa Lotfy       | 49-18054 | marwa.hassan          |
 | Nada Tamer        | 49-13614 | nada.abdelhay         |
 
+## To-Do List
+- REdeesign lower chassis
+- get the dynamical model
+- literature review
+
 ## Project Timeline
 
-Milestone 1 --> 1/10
+Milestone 1 --> 1/10 (done)
+Milestone 2 --> 
 
 ## Contact Information
 
-If you need to get in touch with our team, please feel free to reach out to us via email.
+If you need to get in touch with our team, please feel free to reach out to us via uni emails listed above by adding @student.guc.edu.eg to them.
+or mailing me for example.
+
 
