@@ -9,13 +9,13 @@ This is still a proposal so hopefully it will be accepted
 ## Quadcopter Project Team - SQuadCopter 
 This is the official team page for the Quadcopter project. Meet our dedicated team members:
 
-| Name              | ID       | Email                  |
-|-------------------|----------|------------------------|
-| Ahmed Abdulhameed | 52-24471 | Ahmed.elessawy        |
-| Dina Mohamed     | 49-18602 | dina.mohamed          |
-| Kareem Hindi      | 49-3964  | Kareem.hindi          |
-| Marwa Lotfy       | 49-18054 | marwa.hassan          |
-| Nada Tamer        | 49-13614 | nada.abdelhay         |
+| Name              | ID       | GUC-mail               | E-mail               |
+|-------------------|----------|------------------------|------------------------|
+| Ahmed Abdulhameed | 52-24471 | Ahmed.elessawy        |                         |
+| Dina Mohamed     | 49-18602 | dina.mohamed          |dina67724@gmail.com      |
+| Kareem Hindi      | 49-3964  | Kareem.hindi          |kareem.hindi12@gmail.com |
+| Marwa Lotfy       | 49-18054 | marwa.hassan          |lotfymarwa410@gmail.com  |
+| Nada Tamer        | 49-13614 | nada.abdelhay         |nadatameer@outlook.com   |
 
 ## To-Do List
 - Redeesign lower chassis
