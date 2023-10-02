@@ -18,14 +18,14 @@ This is the official team page for the Quadcopter project. Meet our dedicated te
 | Nada Tamer        | 49-13614 | nada.abdelhay         |
 
 ## To-Do List
-- REdeesign lower chassis
+- Redeesign lower chassis
 - get the dynamical model
 - literature review
 
 ## Project Timeline
 
-Milestone 1 --> 1/10 (done)
-Milestone 2 --> 
+- Milestone 1 --> 1/10 (done)
+- Milestone 2 --> 
 
 ## Contact Information
 
