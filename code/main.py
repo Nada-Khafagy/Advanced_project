@@ -70,7 +70,7 @@ def map_duty_for_BLDC(duty):
 
 def get_dutycycle_from_w(W):
     #conversion
-    #voltage = w / 2000
+    #voltage = w / 2200
     #voltage_max 11.1
     #voltage_min 0
     #dutycycle = (voltage/11.1) * 100
