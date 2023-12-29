@@ -25,7 +25,8 @@ This is the official team page for the Quadcopter project. Meet our dedicated te
 ## Project Timeline
 
 - ~~Milestone 1 --> 1/10~~
-- Milestone 2 --> 24/10
+- ~~Milestone 2 --> 24/10~~
+
 
 ## Contact Information
 
