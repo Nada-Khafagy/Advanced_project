@@ -23,7 +23,7 @@ This is the official team page for the Quadcopter project. Meet our dedicated te
 - ~~Milestone 2 --> 24/10~~
 - ~~Milestone 3 --> 2/12~~
 - ~~Milestone 4 --> 18/12~~
-- 
+- ~~Milestone 5 --> 29/12~~
 
 
 ## Contact Information
